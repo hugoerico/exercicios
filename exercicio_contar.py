@@ -1,6 +1,6 @@
 numero=0
 for n in range(numero,1001,2):
-   print(numero)
+   print(n)
 
 
 
